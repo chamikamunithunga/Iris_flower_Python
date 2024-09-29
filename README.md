@@ -38,5 +38,5 @@ To set up this project, you'll need to install the required libraries. Follow th
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iris-flower-classification.git
+   git clone https://github.com/chamikamunithunga/iris-flower-classification.git
    cd iris-flower-classification
